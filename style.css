@@ -34,3 +34,17 @@ h2 {
   margin-top: 40px;
 }
 
+/* Indentation classes */
+.indent-4 {
+  white-space: pre;
+}
+.indent-8 {
+  white-space: pre;
+}
+.indent-12 {
+  white-space: pre;
+}
+.indent-16 {
+  white-space: pre;
+}
+
