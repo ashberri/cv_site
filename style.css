@@ -4,7 +4,7 @@ body {
   max-width: 700px;
   margin: 40px 0; /* replace 0 with auto for center */
   line-height: 1;
-  padding: 0 20px;
+  padding: 0 30px;
   background: #fff;
   color: #111;
 }
@@ -32,6 +32,10 @@ h1 {
 
 h2 {
   margin-top: 40px;
+}
+
+p {
+  line-height:1.5;
 }
 
 /* Indentation classes */
