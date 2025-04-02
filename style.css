@@ -1,10 +1,11 @@
 /* style.css */
 body {
   font-family: Arial, serif;
-  max-width: 700px;
-  margin: 40px 0; /* replace 0 with auto for center */
+  max-width: 50rem; /* max width on the page */
+  margin: 1rem 5rem; /* replace 0 with auto for center */
+                    /* 2.5 rem * 16 = 40 px */
   line-height: 1.2;
-  padding: 0 30px;
+  padding: 0 2.1rem; /* 2.1 rem is approx. 35 px */
   background: #fff;
   color: #111;
 }
