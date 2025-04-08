@@ -2,7 +2,7 @@
 body {
   font-family: Arial, serif;
   max-width: 47rem; /* max width on the page */
-  margin: 1.2rem 3.5rem; /* replace 0 with auto for center */
+  margin: 0 auto; /* replace 0 with auto for center */
                     /* 2.5 rem * 16 = 40 px */
   line-height: 1.2;
   padding: 1rem; /* 2.1 rem is approx. 35 px */
