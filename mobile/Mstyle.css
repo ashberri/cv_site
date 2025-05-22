@@ -1,0 +1,60 @@
+/* style.css */
+body {
+  font-family: Arial, serif;
+  max-width: 47rem; /* max width on the page */
+  margin: 0.5rem 1rem; /* replace 0 with auto for center */
+                    /* 2.5 rem * 16 = 40 px */
+  line-height: 1.2;
+  padding: 0 1rem; /* 2.1 rem is approx. 35 px */
+  background: #fff;
+  color: #111;
+}
+
+a {
+  color: #333;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+header {
+  margin-bottom: 40px;
+}
+
+nav a {
+  margin-right: 15px;
+}
+
+h1 {
+  margin-bottom: 10px;
+}
+
+h2 {
+  margin-top: 40px;
+}
+
+p {
+  line-height:1.5;
+}
+
+/* Indentation classes */
+.indent-4 {
+  white-space: pre;
+}
+.indent-8 {
+  white-space: pre;
+}
+.indent-12 {
+  white-space: pre;
+}
+.indent-16 {
+  white-space: pre;
+}
+/* Override margins for mobileHome.html */
+body#mobileHome {
+  margin: 0.5rem 1rem;
+  padding: 0 1rem;
+}
+
