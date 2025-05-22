@@ -52,4 +52,9 @@ p {
 .indent-16 {
   white-space: pre;
 }
+/* Override margins for mobileHome.html */
+body#mobileHome {
+  margin: 0.5rem 1rem;
+  padding: 0 1rem;
+}
 
